@@ -7,7 +7,7 @@
 body{
     width: 100%;
     max-width: 1000px;
-    background-color: #f4f4f4;
+    background-color: #fff;
     margin: 0 auto ;
 }
 header{
@@ -53,7 +53,6 @@ header .btn button{
     grid-template-columns: 50% 50%;
     height: 65vmax;
     max-height: 600px;
-    background-color: #44eeee;
 }
 
 #first-section-txt{
